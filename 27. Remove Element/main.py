@@ -9,6 +9,7 @@ if l==1 and nums[0]==n:
 	del nums[0]
 	exit()
 
+
 while f<l-1:
 	front = nums[f]
 	last =  nums[l-1]
